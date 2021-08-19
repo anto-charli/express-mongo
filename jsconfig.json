@@ -1,0 +1,9 @@
+// @see https://javascriptplayground.com/vscode-go-to-definition-jsx/
+// @see https://code.visualstudio.com/docs/languages/jsconfig
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "react"
+  },
+  "exclude": ["node_modules"]
+}
